@@ -1,5 +1,5 @@
 <!-- README.md profesional para GitHub -->
-  <h1 align="center">👨‍💻 Freddy Zuta | Ingeniero de Sistemas <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+  <h1 align="center">👨‍💻 <a href="https://github.com/Fredd-Zuta" target="blank">Freddy Zuta </a> | Ingeniero de Sistemas <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <!-- <span><i>Los datos bien tratados cuentan historias que cambian decisiones.</i></span> -->
   <img src="./Captura de pantalla 2025-08-03 140409.png" alt="Banner" width="100%">
@@ -24,8 +24,8 @@ Actualmente me enfoco en proyectos que integran el análisis estadístico con so
 
 - **Languages**:
 
-    ![PHP](https://img.shields.io/badge/PHP%20-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+    ![PHP](https://img.shields.io/badge/PHP%20-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
     ![SQL](https://img.shields.io/badge/SQL-%2300C7B7.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 <br>   
@@ -68,7 +68,6 @@ Actualmente me enfoco en proyectos que integran el análisis estadístico con so
     ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
     ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
     ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-    ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 
 
 </p>
@@ -92,8 +91,12 @@ Actualmente me enfoco en proyectos que integran el análisis estadístico con so
 Estoy abierto a proyectos colaborativos, contribuciones open source y desafíos que involucren ciencia de datos, IA aplicada o análisis predictivo. 
 
 📫 **Contáctame**:
-- [LinkedIn](https://www.linkedin.com/)  
-- 📧 [Email](mailto:tucorreo@example.com)
+<p>
+	<a href="https://wa.me/51961837587"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+	<a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	<a href="mailto:fzuta29@gmail.com"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://github.com/Fredd-Zuta"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
 
 ---
 
