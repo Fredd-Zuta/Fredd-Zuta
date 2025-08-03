@@ -72,7 +72,7 @@ Actualmente me enfoco en proyectos que integran el análisis estadístico con so
 
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ### 🚀 Proyectos destacados
 
@@ -84,7 +84,7 @@ Actualmente me enfoco en proyectos que integran el análisis estadístico con so
 
 *Todos los proyectos están enfocados en resolver problemas reales con datos reales.*
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ### 🤝 ¿Colaboramos?
 
@@ -98,12 +98,11 @@ Estoy abierto a proyectos colaborativos, contribuciones open source y desafíos 
   <a href="https://github.com/Fredd-Zuta"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 ### ☕ Frase que me guía
 > *"Los datos bien tratados cuentan historias que cambian decisiones."*
 
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=freddy-ds&style=flat-square&color=blue" alt="GitHub Profile Views"/>
