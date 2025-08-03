@@ -1,12 +1,15 @@
 <!-- README.md profesional para GitHub -->
 
-<h1 align="center">👨‍💻 Freddy Zuta | Ingeniero de Sistemas</h1>
-<h3 align="center">Apasionado por la Ciencia de Datos y el Análisis Predictivo</h3>
+<h1 align="center">👨‍💻 <span style="color:#00FFFF">Freddy Zuta</span> | Ingeniero de Sistemas</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Graduating_soon-green" alt="Graduating Soon Badge">
-  <img src="https://img.shields.io/badge/Focus-Data%20Science%20%7C%20Predictive%20Models-blue" alt="Focus Badge">
-  <img src="https://img.shields.io/badge/Values-Cooperation%20%7C%20Professionalism-orange" alt="Values Badge">
+  <h4 align="center"><i>Los datos bien tratados cuentan historias que cambian decisiones.</i></h4>
+  <img src="./Captura de pantalla 2025-08-03 140409.png" alt="Banner" width="100%">
+  <p align="center">
+    <img src="https://img.shields.io/badge/Status-Graduating_soon-green" alt="Graduating Soon Badge">
+    <img src="https://img.shields.io/badge/Focus-Data%20Science%20%7C%20Predictive%20Models-blue" alt="Focus Badge">
+    <img src="https://img.shields.io/badge/Values-Cooperation%20%7C%20Professionalism-orange" alt="Values Badge">
+  </p>
 </p>
 
 ---
